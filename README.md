@@ -1,5 +1,5 @@
-### 🤙 Hi there, i'm Marvin Mussacate 
-aka Masaru-san or Urassam
+### 🤙 Hi there, i'm BATMAN🦇
+My name is **Marvin Mussacate** aka **Masaru-san** or **Urassam**
 I'm an intusiast, currently im Computer Science student, bachelor's degree.😆
 #
 - 🔭I am currently working my own side projects...
