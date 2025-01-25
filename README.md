@@ -67,7 +67,7 @@ I'm an intusiast, currently im Computer Science student, bachelor's degree.😆
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+<br/>  
 ### MARVIN'S GITHUB STATS
 ![Urassamx7's Stats](https://github-readme-stats.vercel.app/api?username=Urassamx7&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 ![Urassamx7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Urassamx7&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
