@@ -1,9 +1,9 @@
 ### 🤙 Hi there, i'm BATMAN🦇
-My name is **Marvin Mussacate** aka **Masaru-san** or **Urassam**
-I'm an intusiast developer, currently im Computer Science student, bachelor's degree.😆
+My name is **Marvin Mussacate** aka  **Urassam**
+I'm an intusiast developer, currently im Computer Engineering student, bachelor's degree.😆
 #
 - 🔭 I am currently working my own side projects...
-- 🌱 Diving into Clean Architeture (TS)...
+- 🌱 Diving into Clean Architeture (TS & C#)...
 - ❓  Ask me any topic related to Software Engineering, web development, Clean Arch, MVC...
 #
 ###Technologies
@@ -26,7 +26,8 @@ I'm an intusiast developer, currently im Computer Science student, bachelor's de
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
