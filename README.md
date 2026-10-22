@@ -1,72 +1,96 @@
-### 🤙 Hi there, i'm URASSAMX7🦇
-My name is **Marvin Mussacate** 
-#
-- 🔭 I am currently working my own side projects...
-- 🌱 Diving into Clean Architeture (TS & C# w/.net)...
-- ❓  Ask me any topic related to Software Engineering, web development, Clean Arch, MVC...
-#
-###Technologies
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Database  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Urassamx7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E03C31,100:F7C948&height=200&section=header&text=Marvin%20Mussacate&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Mozambique%20%F0%9F%87%B2%F0%9F%87%BF&descSize=18&descAlignY=72" alt="header" />
+
+<a href="https://github.com/Urassamx7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F7C948&center=true&vCenter=true&width=640&lines=I'm+going+to+be+the+King+of+the+Pirates...;...of+Clean+Architecture+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Full-stack+%7C+TypeScript+%7C+C%23+%2F+.NET;Building+my+own+Grand+Line+%F0%9F%8C%8A" alt="typing" />
 </a>
-<a href="https://x.com/bkp_da?s=21" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://mz.linkedin.com/in/marvin-mussacate-a7058127a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/share/156LZrEKat/?mibextid=wwXIfr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/urahara_ysenjo?igsh=MWFzcDM3d2ZyeWNoYg%3D%3D&utm_source=qr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<br/>
-</div>  
-  
-### MARVIN'S GITHUB STATS
-![Urassamx7's Stats](https://github-readme-stats.vercel.app/api?username=Urassamx7&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![Urassamx7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Urassamx7&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🏴‍☠️ Wanted Poster
+
+```text
+╔══════════════════════════════════════════╗
+║                 W A N T E D              ║
+║                                          ║
+║          MARVIN "URASSAMX7" MUSSACATE    ║
+║                                          ║
+║   CREW ROLE : Full-Stack Developer       ║
+║   HOME PORT : Mozambique 🇲🇿              ║
+║   SPECIALTY : TypeScript · C# / .NET     ║
+║   CRIME     : Over-engineering with      ║
+║               Clean Architecture         ║
+║                                          ║
+║   BOUNTY    : ∞ lines of code (alive)    ║
+╚══════════════════════════════════════════╝
+```
+
+## 🧭 Log Pose (what I'm doing now)
+
+- 🔭 Building side projects and sailing toward bigger ones
+- 🌱 Diving deep into **Clean Architecture** with **TypeScript** and **C# / .NET**
+- 📚 Studying system design, testing and DDD
+- 💬 Ask me about: web development, Clean Architecture, MVC, software engineering
+
+## 🍎 Devil Fruits (my tech stack)
+
+**Frontend**
+
+![JavaScript](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs&theme=dark)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,cs,dotnet,java,docker&theme=dark)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,firebase,prisma,redis&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)
+
+## ⚓ Treasure Map (featured projects)
+
+> Substitua pelos seus 4 melhores projetos. Cada um com: o problema, a stack e um link de demo.
+
+| Treasure | What it is | Stack |
+|---|---|---|
+| 🌦️ [**Weather-App**](https://github.com/Urassamx7/Weather-App) | Weather web application | JavaScript |
+| 🎙️ [**nlw-audioNotes**](https://github.com/Urassamx7/nlw-audioNotes) | Audio notes app built during NLW | TypeScript |
+| 🎓 [**bisc-sloder**](https://github.com/Urassamx7/bisc-sloder) | Academic software engineering project | JavaScript |
+| 🚀 **Next big project** | Big news comming | TypeScript / C# |
+
+## 🌊 Grand Line Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Urassamx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F7C948&icon_color=E03C31" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urassamx7&theme=tokyonight&hide_border=true&layout=compact&title_color=F7C948" alt="languages" />
+
+</div>
+
+## 👒 My Nakama Code
+
+- **Never give up.** Bugs are just Marines: annoying, but beatable.
+- **Build with a crew.** Clean code is code your nakama can read.
+- **Dream big.** Ship small, ship often, improve every voyage.
+
+> *"When do you think people die? When they are shot? No... It's when they are forgotten."* ,  Dr. Hiluluk
+> Ship projects worth remembering.
+
+## 📡 Den Den Mushi (contact me)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mz.linkedin.com/in/marvin-mussacate-a7058127a)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bkp_da)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/258842821131)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/urahara_ysenjo)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C948,100:E03C31&height=100&section=footer" alt="footer" />
+
+</div>
